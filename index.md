@@ -5,7 +5,54 @@
 <style>
   .img1 {
 border-radius: 25px;
-    
+}
+    .dropbtn {
+  background-color: grey;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+    min-width: 100%;
+text-align: left;
+  border-radius: 25px 25px 25px 25px;
+
+}
+
+.dropdown {
+  position: relative;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: lightgrey;
+  min-width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius: 0px 0px 25px 25px;
+
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: darkgrey;
+  border-radius: 25px 25px 0px 0px;
+
   }
 </style>
 </head>
@@ -42,5 +89,30 @@ With your purchase, you will not only be supporting the Nabugoye Hill community,
   <hr>
 <h2>For all these reasons and more, why not buy a kippah? We only make the best!</h2>
 
+<hr>
+
+<div class="dropdown">
+  <button class="dropbtn">Commonly asked questions</button>
+  <div class="dropdown-content">
+  <a href="#">How to buy our Kippot</a>
+  <a href="#">What are all your products?</a>
+  <a href="#">Can I donate?</a>
+  <a href="#">Can I volunteer?</a>
+
+  </div>
+</div>
+
+<hr>
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
+
