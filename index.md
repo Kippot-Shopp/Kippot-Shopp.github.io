@@ -101,22 +101,16 @@ With your purchase, you will not only be supporting the Nabugoye Hill community,
   </div>
 </div>
 
+<br>
+
   <hr>
 
-<h4>Conact:</h4><br>
+<h4>Conact:</h4>
   <a href="mailto:kippotshopp@gmail.com">KippotShopp@gmail.com</a> <br>
   Whatsapp: +256 740 697643 <br>
   Facebook: <a href="https://www.facebook.com/profile.php?id=61556663735001&mibextid=wwXIfr&mibextid=wwXIfr">Isaac Ug</a>
 
   <hr>
-
-
-
-
-
-
-
-
 
 </body>
 </html>
