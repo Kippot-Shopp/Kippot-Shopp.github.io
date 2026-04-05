@@ -71,20 +71,20 @@ Size M costs $20 USD, and Size L costs $30 USD.</h5>
 <h3>Our Kippot are hand made - the way they should be.</h3>
   All our Kippot are hand made by our team in the Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
   <hr>
-<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />
+<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />
 
 
   <hr>
 <h3>We offer exclusive variety</h3>
 With our selection of boutique Kippot, you will never run out of options.
   <hr>
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c536ff2b-6213-4308-a64e-7aa23137a06a" />
+<img class="img1" width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c536ff2b-6213-4308-a64e-7aa23137a06a" />
 
   <hr>
 <h3>Helping the community - every Kippah bought goes to the community</h3>
 With your purchase, you will not only be supporting the Nabugoye Hill community, but you will be buying a <i>piece of the Abayudaya culture.</i>
   <hr>
-<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
+<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
 
   <hr>
 <h2>For all these reasons and more, why not buy a kippah? We only make the best!</h2>
@@ -97,13 +97,18 @@ With your purchase, you will not only be supporting the Nabugoye Hill community,
   <a href="#">How to buy our Kippot</a>
   <a href="#">What are all your products?</a>
   <a href="#">Can I donate?</a>
-  <a href="#">Can I volunteer?</a>
 
   </div>
 </div>
 
-<hr>
+  <hr>
 
+<h4>Conact:</h4><br>
+  <a href="mailto:kippotshopp@gmail.com">KippotShopp@gmail.com</a> <br>
+  Whatsapp: +256 740 697643 <br>
+  Facebook: <a href="https://www.facebook.com/profile.php?id=61556663735001&mibextid=wwXIfr&mibextid=wwXIfr">Isaac Ug</a>
+
+  <hr>
 
 
 
