@@ -90,6 +90,8 @@ With your purchase, you will not only be supporting the Nabugoye Hill community,
 <h2>For all these reasons and more, why not buy a kippah? We only make the best!</h2>
 
 <hr>
+<div class="powr-ecommerce" id="8d0d5c85_1775517004"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+<hr>
 
 <div class="dropdown">
   <button class="dropbtn">Commonly asked questions</button>
