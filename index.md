@@ -59,7 +59,9 @@ text-align: left;
 <body>
 <h1>Kippot Shopp</h1>
   <hr>
-<h4>We offer custom boutique Kippot - hand made in the heart of Uganda by the Abayudaya community.</h4>
+<h4>We offer custom boutique Kippot - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community.
+<a href="">Who are the Abayudaya? >></a>
+</h4>
   <hr>
 <h5>We currently offer two sizes - Size M and Size L. <br>
 Size M costs $20 USD, and Size L costs $30 USD.</h5>
@@ -69,7 +71,7 @@ Size M costs $20 USD, and Size L costs $30 USD.</h5>
 <h2>Why buy from Kippot Shopp?</h2>
   <hr>
 <h3>Our Kippot are hand made - the way they should be.</h3>
-  All our Kippot are hand made by our team in the Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
+  All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
   <hr><!--
 <img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />-->
 
@@ -82,7 +84,7 @@ With our selection of boutique Kippot, you will never run out of options.
 
   <hr>
 <h3>Helping the community - every Kippah bought goes to the community</h3>
-With your purchase, you will not only be supporting the Nabugoye Hill community, but you will be buying a <i>piece of the Abayudaya culture.</i>
+With your purchase, you will not only be supporting the Conservative Nabugoye Hill community, but you will be buying a <i>piece of the Abayudaya culture.</i>
   <hr><!--
 <img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
 -->
