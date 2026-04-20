@@ -64,12 +64,14 @@ text-align: left;
 </h4>
 
   <hr>
-<img class="img1" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />
-  <hr>
+
 <h2>Why buy from Kippot Shopp?</h2>
   <hr>
 <h3>Our Kippot are hand made - the way they should be.</h3>
   All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
+<hr>
+
+<img width="384" height="384" alt="4a474fd04b823bbbd8a7093df9e1930f5d192ae9-1 (2)" src="https://github.com/user-attachments/assets/6c489b53-a500-468b-ada3-6f0bc229b41f" />
 
   <hr>
 <h3>We offer exclusive variety</h3>
