@@ -69,23 +69,22 @@ text-align: left;
 <h2>Why buy from Kippot Shopp?</h2>
   <hr>
 <h3>Our Kippot are hand made - the way they should be.</h3>
-  All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled. <br>
-  Each kippah 
-  <hr>
-<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />
-
+  All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
 
   <hr>
 <h3>We offer exclusive variety</h3>
 We make every Kippah and Challah cover by hand and according to your specifications - exactly how you like it.
-  <hr>
-<img class="img1" width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c536ff2b-6213-4308-a64e-7aa23137a06a" />
+<hr>
+
+<img width="512" height="384" alt="ba7d3d04198c9c0c4fb2288fc4edb28fcd2bc24f-1" src="https://github.com/user-attachments/assets/0b2d5fc5-4a0a-4c13-9d0a-5714d05f141c" />
+
 
   <hr>
 <h3>Helping the community - every Kippah bought and challah cover created goes to the community</h3>
 With your purchase, you will not only be supporting the Conservative Nabugoye Hill community, but you will be buying a <i>piece of the Abayudaya culture.</i>
   <hr>
-<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
+
+<img width="512" height="384" alt="97ec0dd21294da9a329d4b1a04a6a79cb1d17edb-1" src="https://github.com/user-attachments/assets/91ec2bb4-c443-4e16-8b60-5a9467b2fea0" />
 
   <hr>
 <h2>For all these reasons and more, why not buy a kippah or two? Or even the perfect challah cover?  We only make the best!</h2>
