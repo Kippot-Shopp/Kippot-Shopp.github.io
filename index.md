@@ -98,7 +98,6 @@ With your purchase, you will not only be supporting the Conservative Nabugoye Hi
   <div class="dropdown-content">
   <a href="#">How to buy our Kippot?</a>
   <a href="#">How to buy our Challah covers?</a>
-  <a href="#">What are all your products?</a>
   <a href="#">Can I donate?</a>
 
   </div>
