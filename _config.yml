@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Kippot Shoppe
+title: Kippot Shopp
 description: <img alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />
 
 show_downloads: false
