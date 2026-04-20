@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Kippot Shopp
-description: Kippot Shopp - The best place to buy boutique Kippot! Please E-mail <a href="mailto:kippotshopp@gmail.com">KippotShopp@gmail.com</a> for more details!
+description: <img class="img1" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />
 
 
 show_downloads: false
