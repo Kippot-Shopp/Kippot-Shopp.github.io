@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Kippot Shopp
-description: Kippot Shopp - The best place to buy boutique Kippot! Our Kippot are exclusivly hand made in the heart of Uganda by Abayudaya residents and shipped to your door!
+description: Kippot Shopp - The best place to buy boutique Kippot! 
 
 show_downloads: false
 
