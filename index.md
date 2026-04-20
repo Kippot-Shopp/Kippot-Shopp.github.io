@@ -59,8 +59,8 @@ text-align: left;
 <body>
 <h1>Kippot Shopp</h1>
   <hr>
-<h4>We offer custom boutique Kippot & Challah covers - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community.
-<a href="">Who are the Abayudaya? >></a>
+<h4>We offer custom boutique Kippot & Challah covers - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community. 
+<a href="https://en.wikipedia.org/wiki/Abayudaya/">Who are the Abayudaya? >></a>
 </h4>
 
   <hr>
@@ -87,7 +87,7 @@ With your purchase, you will not only be supporting the Conservative Nabugoye Hi
 <img width="512" height="384" alt="97ec0dd21294da9a329d4b1a04a6a79cb1d17edb-1" src="https://github.com/user-attachments/assets/91ec2bb4-c443-4e16-8b60-5a9467b2fea0" />
 
   <hr>
-<h2>For all these reasons and more, why not buy a kippah or two? Or even the perfect challah cover?  We only make the best!</h2>
+<h2>For all these reasons and more, why not buy a kippah or two? Or maybe even the perfect challah cover?  We only make the best!</h2>
 
 <hr>
 <div class="powr-ecommerce" id="8d0d5c85_1775517004"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
