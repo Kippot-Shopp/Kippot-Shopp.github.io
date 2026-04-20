@@ -3,7 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Kippot Shopp
-description: Kippot Shopp - The best place to buy boutique Kippot! 
+description: Kippot Shopp - The best place to buy boutique Kippot! Please E-mail <a href="mailto:kippotshopp@gmail.com">KippotShopp@gmail.com</a> for more details!
+
 
 show_downloads: false
 
