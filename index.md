@@ -96,9 +96,9 @@ With your purchase, you will not only be supporting the Conservative Nabugoye Hi
 <div class="dropdown">
   <button class="dropbtn">Commonly asked questions</button>
   <div class="dropdown-content">
-  <a href="/otherStuff/chooseKippah.html">How to buy our Kippot?</a>
-  <a href="/otherStuff/buychallahc.html">How to buy our Challah covers?</a>
-  <a href="/otherStuff/donate.html">Can I donate?</a>
+  <a href="/otherStuff/chooseKippah.html">How to buy our Kippot? >> </a>
+  <a href="/otherStuff/buychallahc.html">How to buy our Challah covers? >> </a>
+  <a href="/otherStuff/donate.html">Can I donate? >> </a>
 
   </div>
 </div>
