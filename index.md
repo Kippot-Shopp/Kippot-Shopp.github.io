@@ -59,37 +59,36 @@ text-align: left;
 <body>
 <h1>Kippot Shopp</h1>
   <hr>
-<h4>We offer custom boutique Kippot - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community.
+<h4>We offer custom boutique Kippot & Challah covers - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community.
 <a href="">Who are the Abayudaya? >></a>
 </h4>
+
   <hr>
-<h5>We currently offer two sizes - Size M and Size L. <br>
-Size M costs $20 USD, and Size L costs $30 USD.</h5>
-  <hr><!--
-<img class="img1" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />-->
+<img class="img1" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />
   <hr>
 <h2>Why buy from Kippot Shopp?</h2>
   <hr>
 <h3>Our Kippot are hand made - the way they should be.</h3>
-  All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled.
-  <hr><!--
-<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />-->
+  All our Kippot are hand made by our team in the Conservative Jewish Abayudaya community in Nabugoye Hill - their craftsmanship is unparelled. <br>
+  Each kippah 
+  <hr>
+<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/1cdf4efa-21b0-447b-ab08-467acd478c74" />
 
 
   <hr>
 <h3>We offer exclusive variety</h3>
-With our selection of boutique Kippot, you will never run out of options.
-  <hr><!--
-<img class="img1" width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c536ff2b-6213-4308-a64e-7aa23137a06a" />-->
+We make every Kippah and Challah cover by hand and according to your specifications - exactly how you like it.
+  <hr>
+<img class="img1" width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c536ff2b-6213-4308-a64e-7aa23137a06a" />
 
   <hr>
-<h3>Helping the community - every Kippah bought goes to the community</h3>
+<h3>Helping the community - every Kippah bought and challah cover created goes to the community</h3>
 With your purchase, you will not only be supporting the Conservative Nabugoye Hill community, but you will be buying a <i>piece of the Abayudaya culture.</i>
-  <hr><!--
-<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
--->
   <hr>
-<h2>For all these reasons and more, why not buy a kippah? We only make the best!</h2>
+<img class="img1" width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/88b9278d-25aa-4625-871b-5f9b7a1a7bb3" />
+
+  <hr>
+<h2>For all these reasons and more, why not buy a kippah or two? Or even the perfect challah cover?  We only make the best!</h2>
 
 <hr>
 <div class="powr-ecommerce" id="8d0d5c85_1775517004"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
@@ -98,7 +97,8 @@ With your purchase, you will not only be supporting the Conservative Nabugoye Hi
 <div class="dropdown">
   <button class="dropbtn">Commonly asked questions</button>
   <div class="dropdown-content">
-  <a href="#">How to buy our Kippot</a>
+  <a href="#">How to buy our Kippot?</a>
+  <a href="#">How to buy our Challah covers?</a>
   <a href="#">What are all your products?</a>
   <a href="#">Can I donate?</a>
 
@@ -110,11 +110,11 @@ With your purchase, you will not only be supporting the Conservative Nabugoye Hi
   <hr>
 
 <h4>Conact:</h4>
-<!--
+
   <a href="mailto:kippotshopp@gmail.com">KippotShopp@gmail.com</a> <br>
-  Whatsapp: +256 740 697643 <br>
+  Whatsapp: 423 617 6411 <br>
   Facebook: <a href="https://www.facebook.com/profile.php?id=61556663735001&mibextid=wwXIfr&mibextid=wwXIfr">Isaac Ug</a>
--->
+
   <hr>
 
 </body>
