@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Kippot Shoppe
-description: <img alt="8b60a59c536536e215065e318f3ba0b73a370b3c-1 (1)" src="https://github.com/user-attachments/assets/84f69e63-835e-4783-a1e3-0d496830b3d6" />
+description: <img class="img1" width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/61c994d9-9d69-4228-bf81-5b930a17d34a" />
+
 show_downloads: false
 
