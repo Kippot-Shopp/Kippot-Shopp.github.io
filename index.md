@@ -60,7 +60,7 @@ text-align: left;
 <h1>Kippot Shopp</h1>
   <hr>
 <h4>We offer custom boutique Kippot & Challah covers - hand made in the heart of Uganda by the Conservative Jewish Abayudaya community. 
-<a href="https://en.wikipedia.org/wiki/Abayudaya/">Who are the Abayudaya? >></a>
+<a href="https://en.wikipedia.org/wiki/Abayudaya">Who are the Abayudaya? >></a>
 </h4>
 
   <hr>
